@@ -1,0 +1,20 @@
+1) Token Bucket
+2) Leaking Bucket
+3) Fixed Window Counter
+4) Sliding Window Log
+5) Sliding Window Counter
+6) Exponential Moving Average (EMA)
+7) Adaptive Rate Limiting
+8) Distributed Rate Limiting
+9) Burst Rate Limiting
+10) Concurrency Limit
+11) Rate Limiting with Retry-After Header
+12) Dynamic Leaky Bucket
+13) Hybrid Rate Limiting
+14) Fixed Window with Auto-Replenishment
+15) Rate Limiting with Quotas
+16) Hierarchical Rate Limiting
+17) Token Bucket with Max Capacity
+18) Leaky Bucket with Delay Queuing
+19) Rate Limiting using HashMap for User/IP Tracking
+20) Rate Limiting with Circuit Breaker
