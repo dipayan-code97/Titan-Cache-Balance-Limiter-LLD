@@ -51,5 +51,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any questions or suggestions, please open an issue or reach out to the maintainers via email at your.email@example.com.
+For any questions or suggestions, please open an issue or reach out to the maintainers via email at dipayanpaul.97@gmail.com.
 
