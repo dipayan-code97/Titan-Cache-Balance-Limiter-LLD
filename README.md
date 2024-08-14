@@ -2,7 +2,7 @@
   Built with a variety of rate limiting algorithms, this project provides flexible and scalable options for managing user requests, preventing abuse, 
   and ensuring system stability.
 
-# Multiple Rate Limiting Algorithms:
+# Multiple Rate Limiting Algorithms :
 
 * Token Bucket: Allows requests to be handled in bursts and refills tokens over time.
 * Leaky Bucket: Ensures a steady flow of requests by enforcing a fixed rate of request processing.
