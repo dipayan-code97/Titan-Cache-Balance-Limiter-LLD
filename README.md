@@ -28,8 +28,8 @@
 
   * Test (titanVault.serviceTest): Contains unit tests for rate limiting algorithms with two categories:
 
-    *Small Dataset Tests: Tests with moderate values to ensure correctness.
-    *Large Dataset Tests: Tests with large values to stress-test the system.
+    * Small Dataset Tests: Tests with moderate values to ensure correctness.
+    * Large Dataset Tests: Tests with large values to stress-test the system.
 
 # Installation:
   Prerequisites
