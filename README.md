@@ -37,10 +37,7 @@
   Maven 3.6 or higher
 
 # Clone the Repository:
-bash
-Copy code
 git clone https://github.com/dipayan-code97/titan-cache-balance-limiter-LLD.git
-cd titan-cache-balance-limiter-LLD
 
 # mvn clean install
 Running Tests
