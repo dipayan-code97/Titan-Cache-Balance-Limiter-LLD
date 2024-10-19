@@ -15,7 +15,6 @@
 * Rate Limiting with Quotas: Sets predefined quotas for different users or services, ensuring fair usage distribution.
 * EMABucket Rate Limiting: Utilizes the Exponential Moving Average to smooth out traffic patterns and apply adaptive rate limits.
 * Circuit Breaker Rate Limiting: Protects your services from overload by breaking the circuit when the request rate exceeds a safe threshold.
-* Testing: Includes comprehensive JUnit test suites for both small and large datasets to ensure robust performance and correctness under various scenarios.
 
 # Project Structure:
   The project follows the Model-View-Controller (MVC) design pattern:
@@ -28,8 +27,8 @@
 
   * Test (titanVault.serviceTest): Contains unit tests for rate limiting algorithms with two categories:
 
-    * Small Dataset Tests: Tests with moderate values to ensure correctness.
-    * Large Dataset Tests: Tests with large values to stress-test the system.
+    * Small Dataset Tests: Tests with moderate values.
+    * Large Dataset Tests: Tests with large values.
 
 # Installation:
   Prerequisites
@@ -46,7 +45,4 @@ mvn test
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or suggestions, please open an issue or reach out to the maintainers via email at dipayanpaul.97@gmail.com.
 
